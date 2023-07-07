@@ -1,4 +1,4 @@
-# I’m putting out a public apology.
+# yay public apology time!
 
 it seems I have drifted away from what I was supposed to be doing.
 
