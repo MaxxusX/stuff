@@ -1,3 +1,5 @@
+-- https://www.roblox.com/games/13462220825/Raise-Kenny
+
 print("made by the epic cool gamer known as maxxus!!!!!!!!!!!!!!!!!!!!!!!!! discord: maxxus#0, twitter: @MaxxusYT2")
 print("MAY CAUSE LAG on less powerful devices!!!")
 
