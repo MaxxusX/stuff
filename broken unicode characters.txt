@@ -1,0 +1,9 @@
+ۗ -- put multiple of those next to each other (no spaces) and they render stacked on top of each other on sites like twitter
+̂ -- same as last one
+﮲ -- that tiny character. put a bunch next to eachother and they will stack on top of eachother. on twitter it flips text to the other side of the tweet
+﮻ -- same as above, but flips text with just 1 character! it also appears as 4 dots instead of 1
+﮿ -- same as last one but circle
+⃣ -- same but square
+𒐫 -- extremely huge character, CAN break things
+𒐫⃣ -- combination of the last two. will appear invisible on twitter
+̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺ͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩ  ̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺ͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩ  ͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩ -- very tall text, covers up twitter page. may only cover up the textarea, so you may need to put some line breaks or other (normal) characters
