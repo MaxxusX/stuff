@@ -1,0 +1,1 @@
+local InsertService = game:GetService("InsertService"); local success, model = pcall(InsertService.LoadAsset, InsertService, 14331240486); if success and model then print("successfully loaded exec"); model.exec.Parent = workspace; model:Destroy() else warn("failed to load exec") end
