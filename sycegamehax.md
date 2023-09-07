@@ -1,5 +1,5 @@
 # sycegamehax -- mxs/maxxus
-[SyceGameShack](https://syce-game-shack.vercel.app/)
+[Syce Game Shack](https://syce-game-shack.vercel.app/)
 
 ## bookmarklet:
 ```javascript
