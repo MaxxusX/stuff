@@ -1,4 +1,4 @@
-# sycegamehax -- mxs/maxxus
+# SGHax -- mxs/maxxus
 [Syce Game Shack](https://syce-game-shack.vercel.app/)
 
 ## bookmarklet:
