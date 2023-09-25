@@ -16,3 +16,4 @@ if (localStorage.getItem("nav") === "Horizontal Bar") { alert("SGHax does not su
 
 * 420/160 games played
 * add savehacking for games
+* add clear all data
