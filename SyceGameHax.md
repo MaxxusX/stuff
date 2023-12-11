@@ -1,3 +1,5 @@
+# no longer working on this, use sgs+ instead
+
 # SGHax -- mxs
 [Syce Game Shack](https://syce-game-shack.vercel.app/)
 
